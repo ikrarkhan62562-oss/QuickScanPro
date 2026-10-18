@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuickScan Pro</string>
+    <string name="notification_title">QuickScan Pro Active</string>
+    <string name="notification_text">Verifying payment status...</string>
+</resources>
