@@ -1,0 +1,46 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+
+    <!-- Corner Brackets (Scanner Frame) -->
+    <!-- Top Left -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M20,50 L20,20 L50,20 L50,30 L30,30 L30,50 Z" />
+    <!-- Top Right -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M150,20 L180,20 L180,50 L170,50 L170,30 L150,30 Z" />
+    <!-- Bottom Left -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M20,150 L30,150 L30,170 L50,170 L50,180 L20,180 Z" />
+    <!-- Bottom Right -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M150,170 L170,170 L170,150 L180,150 L180,180 L150,180 Z" />
+
+    <!-- Barcode Lines (Center) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M60,70 L66,70 L66,130 L60,130 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M72,70 L76,70 L76,130 L72,130 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M82,70 L90,70 L90,130 L82,130 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M96,70 L100,70 L100,130 L96,130 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M106,70 L114,70 L114,130 L106,130 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M120,70 L124,70 L124,130 L120,130 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M130,70 L138,
