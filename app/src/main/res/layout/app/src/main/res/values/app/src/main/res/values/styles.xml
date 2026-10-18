@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.QuickScanPro" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#1E40AF</item>
+        <item name="colorPrimaryDark">#1E3A8A</item>
+        <item name="colorAccent">#10B981</item>
+    </style>
+</resources>
